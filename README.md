@@ -23,4 +23,5 @@ b. Explain why you have chose the network architecture for your network deployme
 group during week 10 or 11 according to tutors allocations. 
 
 Screenshot of network design using Cisco Packet Tracer simulator
+
 ![Advanced Network Design](https://github.com/user-attachments/assets/90a60917-6542-47d2-b4b4-29aa70f1ab39)
