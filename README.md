@@ -1,4 +1,4 @@
-Network analysis and recommendations
+Assessment Title - Network analysis and recommendations
 
 Case study:  
 This assignment continues the same case study as in Assessment-1. Based on individual report of 
